@@ -10,3 +10,13 @@
 
 
 ### How to use:
+
+
+
+
+
+
+### Bugs Known:
+- Can't translate document contains space ' '
+
+
